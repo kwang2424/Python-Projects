@@ -1,5 +1,3 @@
 # Python-Projects
 
-# This is for python practice solving projects on a different projects repository.
-
-# Also for practice with using github
+This is for github and python practice solving projects from another (projects repository)[https://github.com/karan/Projects].
