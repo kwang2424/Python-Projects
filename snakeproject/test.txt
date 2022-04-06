@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+Welcome to Intro to Computer Programming!
+Python is a versatile programming language.
+The end of the semester is coming soon...Good luck on the upcoming final.
+Stay safe and healthy!
+Here are a couple of important mottos to remember:
+Black Lives Matter
+Trans Rights are Human Rights
